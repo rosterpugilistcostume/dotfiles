@@ -1,0 +1,7 @@
+from: markdown
+columns: 80
+from: markdown+grid_tables+simple_tables
+to: markdown+shortcut_reference_links-grid_tables-multiline_tables-pipe_tables-simple_tables+table_captions+line_blocks-fenced_code_attributes-raw_attribute+fenced_code_attributes
+reference-links: true
+reference-location: document
+slide-level: 2
